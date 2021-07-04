@@ -1,7 +1,5 @@
 <img align="right" width="400" src="https://hackernoon.com/images/f2px36fy.gif" />
 
-### Hi there 👋
-
 ## Hi, I'm Victor Souza !! 👋
 
 
