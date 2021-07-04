@@ -3,9 +3,9 @@
 ## Hi, I'm Victor Souza! 👋
 
 
-- I'm a student at [Uniasselvi](https://portal.uniasselvi.com.br/), and I study **Game Design 🎮**!
+- I study **Game Design**🎮 at [Uniasselvi](https://portal.uniasselvi.com.br/)!
 - I'm currently studying: 
-📱 **Mobile Development** and 💻**Web Front End**
+📱 **Mobile Development** and 💻 **Web Front End**
 
 
 
