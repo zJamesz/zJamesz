@@ -1,16 +1,21 @@
+<img align="right" width="400" src="https://hackernoon.com/images/f2px36fy.gif" />
+
 ### Hi there 👋
 
-<!--
-**zJamesz/zJamesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Victor Souza !! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm a student at [Uniasselvi](https://portal.uniasselvi.com.br/), and I study **Game Design 🎮**!
+- I'm currently studying 
+📱 **Mobile Development**
+💻**Web Front End**
+
+
+> #### "Never forget why you started"
+
+### ⚡️ Connect with me:
+[![Twitter Badge](https://img.shields.io/badge/-@Victor_Souza-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/zBluernzz)](https://twitter.com/zBluernzz) 
+[![Linkedin Badge](https://img.shields.io/badge/-Victor_Souza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-souza-a96239215/)](https://www.linkedin.com/in/victor-souza-a96239215/) 
+[![Instagram Badge](https://img.shields.io/badge/-Victor_Souza-6633cc?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zjamessz/)](https://www.instagram.com/zjamessz/)
+
+- ### Why can I help you? 🔍
