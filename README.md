@@ -5,8 +5,7 @@
 
 - I'm a student at [Uniasselvi](https://portal.uniasselvi.com.br/), and I study **Game Design 🎮**!
 - I'm currently studying: 
-📱 **Mobile Development**
-💻**Web Front End**
+📱 **Mobile Development** and 💻**Web Front End**
 
 
 > #### "Never forget why you started"
