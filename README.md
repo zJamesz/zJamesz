@@ -5,7 +5,7 @@
 
 - I study **Game Design** 🎮 at [Uniasselvi](https://portal.uniasselvi.com.br/)!
 - I'm currently studying: 
-📱 **Mobile Development** and 💻 **Web Front End**
+📱 **Mobile Development**
 
 
 
