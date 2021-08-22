@@ -1,6 +1,6 @@
 <img align="right" width="400" src="https://hackernoon.com/images/f2px36fy.gif" />
 
-## Hi, I'm Victor Souza! 👋
+## I'm Victor Souza! 👋
 
 
 - I study **Game Design** 🎮 at [Uniasselvi](https://portal.uniasselvi.com.br/)!
